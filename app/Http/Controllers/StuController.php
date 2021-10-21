@@ -46,7 +46,7 @@ class StuController extends Controller
     function form()
     {
         return view('registration.student');
-        return view('registration.student');
+
     }
 }
 
